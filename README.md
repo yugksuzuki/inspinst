@@ -1,63 +1,30 @@
-# Bd Weather Free Bootstrap 5 Comming Soon Template
-![](screenshot.png)
+# SaaS landing page
 
-👉[Live Demo here](https://bdweather-coming-soon.netlify.app/).
+*Automatically synced with your [v0.app](https://v0.app) deployments*
 
-## [Vvveb CMS](https://www.vvveb.com) theme.
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/yugksuzukis-projects/v0-saa-s-landing-page)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/iur3PCjoBCC)
 
-👉🏻 [Theme page](https://themes.vvveb.com/product/bdweather-coming-soon) 
-👉🏻 [Theme development documentation](http://dev.vvveb.com/theme-introduction)
+## Overview
 
-Use this template either as a standalone Bootstrap 5 template or as a Vvveb CMS theme.
+This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
-<!-- download -->
-## Download And installation
+## Deployment
 
-Download this template from [Github](https://github.com/Vvveb/bdweather-coming-soon/archive/main.zip)
+Your project is live at:
 
+**[https://vercel.com/yugksuzukis-projects/v0-saa-s-landing-page](https://vercel.com/yugksuzukis-projects/v0-saa-s-landing-page)**
 
-## Build
+## Build your app
 
-### Generate html files
+Continue building your app on:
 
-```bash
-npm run gulp
-```
+**[https://v0.app/chat/projects/iur3PCjoBCC](https://v0.app/chat/projects/iur3PCjoBCC)**
 
-### Watch for changes for development
+## How It Works
 
-```bash
-npm run gulp watch
-```
-
-### Generate sections list for VvvebJs page builder
-
-```bash
-npm run gulp sections
-```
-
-### Generate screenshots for sections
-
-```bash
-npm run gulp screenshots
-```
-
-
-## Quick start
-
-- Clone the repo and run it.
-```bash
-git clone https://github.com/Vvveb/bdweather-coming-soon/
-cd bdweather-coming-soon
-npm i
-npm run gulp
-```
-
-## Credits
-Design & Developed by [Templatecookie](https://templatecookie.com)
-
-
-## License
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-**Vvveb CMS integration** Changes released under the MIT license.
+1. Create and modify your project using [v0.app](https://v0.app)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
